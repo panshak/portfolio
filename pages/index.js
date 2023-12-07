@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        My resaerch interests focus mainly on urban ecology and citizen science. I have been conducting field surveys, analyzing large datasets, and utilizing GIS and statistical software to contribute to the scientific understanding of urban ecosystems. 
+        My research interests focus mainly on urban ecology and citizen science. I have been conducting field surveys, analyzing large datasets, and utilizing GIS and statistical software to contribute to the scientific understanding of urban ecosystems. 
        <span>
        <a style={{color: '#0070F3', paddingRight: '8px'}} href="https://doi.org/10.1016/j.ufug.2021.127092" target="_blank"> You can read my recent publication here.</a>
        </span>
